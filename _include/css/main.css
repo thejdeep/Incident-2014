@@ -1,16 +1,4 @@
-/*
-Theme Name: Brushed 
-Theme URI: http://www.themes.alessioatzeni.com/html/brushed/
-Author: Alessio Atzeni
-Author URI: http://www.alessioatzeni.com
-Description: Personal Website and Portfolio of Alessio Atzeni
-Version: 1.0
-*/
 
-
-/* ==================================================
-   Basic Styles
-================================================== */
 
 html, body {
 	height: 100%;
@@ -24,8 +12,8 @@ html, hmtl a{
 }
 
 body{
-	background:#2F3238;
-	color:#7F8289;
+	/*background:#2F3238;
+	color:#7F8289;*/
 	font-weight:300;
 	font-size:16px;
 	font-family: 'Titillium Web', sans-serif;
@@ -628,7 +616,7 @@ nav#menu #menu-nav li a:hover {
 ================================================== */
 
 .page {
-	background: #2F3238;
+	/*background: #2F3238;*/
 	padding: 100px 0;
 	position: relative;
 	z-index: 99;
